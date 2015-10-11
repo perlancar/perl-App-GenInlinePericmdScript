@@ -1,0 +1,6 @@
+Revision history for App-GenInlinePericmdScript
+
+0.29    2015-10-11 (PERLANCAR) (unreleased)
+
+        - First release, split CLI from Perinci-CmdLine-Inline to avoid circular
+          dependency.

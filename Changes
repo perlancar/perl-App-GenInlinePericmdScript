@@ -1,4 +1,4 @@
-0.29    2015-10-11 (PERLANCAR) (unreleased)
+0.29    2015-10-11 (PERLANCAR)  Released-By: unreleased
 
         - First release, split CLI from Perinci-CmdLine-Inline to avoid circular
           dependency.
